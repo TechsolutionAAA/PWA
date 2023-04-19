@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Expo PWA",
-  "short_name": "Expo PWA",
+  "name": "my-app",
+  "short_name": "my-app",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait"
 }
